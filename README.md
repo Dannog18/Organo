@@ -1,6 +1,6 @@
 # Organo - A complete Dev Community, separated by Teams
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Organo is a complete and stylized Dev Community, separated by teams with different colors. Now it's way much easier to find in a group or your company team, what team your colleague works for, what languages he uses, his experience, etc. 
 
 ## Available Scripts
 
